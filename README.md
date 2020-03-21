@@ -1,4 +1,4 @@
-# PowerShell-Domain-Controller-Audit
+# PowerShell-Domain-Controller-Audit-Script
 
 A simple PowerShell script which can be copied/pasted into a PowerShell console window and retrieve auditable domain controller configuration settings. This script only runs a series a queries (it does not make any modifications) and then creates a folder with a text and html document on the user's desktop named after the computer name which can then be uploaded to your favorite auditor :)
 

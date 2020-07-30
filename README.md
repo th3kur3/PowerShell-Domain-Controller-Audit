@@ -2,7 +2,8 @@
 
 \# A PowerShell script which can be copied/pasted into a PowerShell console window and retrieve auditable workstation configuration settings. This script only runs a series a queries (it does not make any modifications) and then creates a folder on the logged in user's desktop nameded after the computer name which can then be zipped and uploaded as supporting documentation.
 
-\# PLEASE NOTE: 
+\# PLEASE NOTE:
+
 \# This script needs to be run as a Domain Administrator on each Domain Controller being audited seperately.
 
 \# Search for: c:\windows\system32\windowspowershell\v1.0\powershell.exe, right click the application result and select "run as administrator".
